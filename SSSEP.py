@@ -177,3 +177,6 @@ plt.xticks(np.arange(16),np.arange(1,17))
 plt.title('all of the subjects')
 plt.xlabel('subject')
 plt.ylabel('accuracy')
+
+
+#learning rate 줄여보기
